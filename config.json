@@ -1,0 +1,11 @@
+{
+  "bastionTunnel" : " ",
+  "dstHostTunnel" : " ",
+  "dstPortTunnel": 8086,
+  "localPortTunnel" :8086,
+  "privateKeyLocationTunnel": "/Users/<username>/.ssh/id_rsa",
+  "dbName":"",
+  "logLevel":"info",
+  "writeToFile":true,
+  "fileLocation":"schema_export.json"
+}

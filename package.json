@@ -1,0 +1,19 @@
+{
+  "name": "influx_audit",
+  "version": "1.0.0",
+  "description": "influx schema audit",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "rokasat@cisco.com",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.0",
+    "cli-table": "^0.3.1",
+    "express": "^4.16.3",
+    "influx": "^5.0.7",
+    "tunnel-ssh": "^4.1.4",
+    "winston": "^2.4.1"
+  }
+}
